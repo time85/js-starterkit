@@ -1,0 +1,19 @@
+{
+  "name": "js-starterkit",
+  "version": "1.0.0",
+  "description": "test js-starterkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/time85/js-starterkit.git"
+  },
+  "author": "time85",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/time85/js-starterkit/issues"
+  },
+  "homepage": "https://github.com/time85/js-starterkit#readme"
+}
