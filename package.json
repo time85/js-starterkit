@@ -4,7 +4,7 @@
   "description": "test js-starterkit",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "babel-node buildScripts/startMessage.js"
   },
   "repository": {
     "type": "git",
